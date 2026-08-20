@@ -1,0 +1,69 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: workflow-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./logs:/app/logs
+    environment:
+      - API_PORT=8000
+      - FRAUD_THRESHOLD=${FRAUD_THRESHOLD:-0.7}
+      - SMTP_HOST=${SMTP_HOST:-}
+      - SMTP_PORT=${SMTP_PORT:-587}
+      - SMTP_USER=${SMTP_USER:-}
+      - SMTP_PASSWORD=${SMTP_PASSWORD:-}
+      - ALERT_EMAIL=${ALERT_EMAIL:-}
+      - WEBHOOK_URL=${WEBHOOK_URL:-}
+    command: uvicorn src.app.main:app --host 0.0.0.0 --port 8000
+    restart: unless-stopped
+    networks:
+      - workflow-network
+
+  scheduler:
+    build: .
+    container_name: workflow-scheduler
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./logs:/app/logs
+    environment:
+      - SCHEDULER_INTERVAL_MINUTES=${SCHEDULER_INTERVAL_MINUTES:-60}
+      - FRAUD_THRESHOLD=${FRAUD_THRESHOLD:-0.7}
+      - SMTP_HOST=${SMTP_HOST:-}
+      - SMTP_PORT=${SMTP_PORT:-587}
+      - SMTP_USER=${SMTP_USER:-}
+      - SMTP_PASSWORD=${SMTP_PASSWORD:-}
+      - ALERT_EMAIL=${ALERT_EMAIL:-}
+      - WEBHOOK_URL=${WEBHOOK_URL:-}
+      - GSHEETS_ENABLED=${GSHEETS_ENABLED:-false}
+      - GSHEETS_CREDENTIALS_PATH=${GSHEETS_CREDENTIALS_PATH:-}
+      - GSHEETS_SHEET_NAME=${GSHEETS_SHEET_NAME:-Fraud Flags}
+    command: python src/app/scheduler.py
+    restart: unless-stopped
+    networks:
+      - workflow-network
+    depends_on:
+      - api
+
+  dashboard:
+    build: .
+    container_name: workflow-dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    command: streamlit run src/dashboard/app.py --server.port 8501 --server.address 0.0.0.0
+    restart: unless-stopped
+    networks:
+      - workflow-network
+
+networks:
+  workflow-network:
+    driver: bridge
+

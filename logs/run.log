@@ -1,0 +1,1294 @@
+2025-11-14 22:14:43 - app.utils - INFO - {"timestamp": "2025-11-14T22:14:43.164989", "action": "runner_start", "data_path": "data/sample_transactions.csv"}
+2025-11-14 22:14:43 - __main__ - INFO - Reading data from data/sample_transactions.csv
+2025-11-14 22:14:43 - __main__ - INFO - Loaded 5000 transactions
+2025-11-14 22:14:43 - __main__ - INFO - Loading model pipeline...
+2025-11-14 22:14:43 - __main__ - INFO - Running predictions...
+2025-11-14 22:14:43 - __main__ - INFO - Flagged 160 out of 5000 transactions (threshold: 0.7)
+2025-11-14 22:14:43 - __main__ - INFO - Saved flagged transactions to data/out/flags.csv
+2025-11-14 22:14:43 - __main__ - INFO - Triggering automation engine...
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Email credentials not configured
+2025-11-14 22:14:43 - app.automation - WARNING - Webhook URL not configured
+2025-11-14 22:14:43 - app.utils - INFO - {"timestamp": "2025-11-14T22:14:43.668870", "action": "automation_complete", "total_flagged": 160, "automation_results": [{"triggered": true, "probability": 0.8204299539733314, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7146643729752405, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8517901920603929, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7001251554132191, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7697847808234183, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8286588275593462, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8900907887110299, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8157012385746686, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8748028412387598, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.887979643631896, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7257632015887644, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7347953821033694, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8552017109501171, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7538412056827655, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7888359638212227, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7095912396537121, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7764675446498625, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.721493446744252, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.764090624215269, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7586181893309865, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7261623279426243, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8856319473619922, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.726787208489354, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7442162403906682, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8086301551417822, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7227151430211698, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7380216521843259, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8574490754527918, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9303501281033936, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7512663728128546, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7499367475951886, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7518553162567693, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7480895961692103, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7181183353643316, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7987212765081046, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9088307495757801, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9024609946267607, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.708254804000557, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7783288008078583, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7329796958067548, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8994230042724815, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8563753092710255, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7054822981080586, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8798890173868733, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8337321197509455, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7522984586733855, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7365513984631775, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7825649655885776, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8228173145536577, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7395669303137766, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8541816058928856, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7956043767954525, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7038170354938431, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.852408001990087, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7884303489363087, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8734685587492838, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8464766751973446, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.925816680349926, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9100583907440638, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.784209692754868, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8223330651229659, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7618158898868655, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9017794533069147, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7928235144332184, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7998435692035486, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8018405695852018, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8592095959919474, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7987935426491766, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9233973644342319, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9453540370806428, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9259746957561448, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9029552511485437, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8762484447446195, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7857598878950847, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7435480836801317, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.854406083273329, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7125354945821912, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7227589312060979, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7333243370623221, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7778392263575955, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8087060800938624, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7757115842019278, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7386540055001756, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7785725720609996, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8651814048011914, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8078544604965628, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8371837530319156, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7404095672527291, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8254713944252065, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9313653894564068, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7262241087252405, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8097875781480629, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7677769277881568, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8131435243044091, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.761960856469685, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8495665161175644, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7558627110424689, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7903369694757155, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7698178709006207, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7451355627572883, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7645347247032206, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7827736848715224, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9434312761729893, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8006011198140847, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8390611706078894, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9102019639287551, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7764675446498625, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7438481251443809, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7079160180507141, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9141335519676876, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7963880965272415, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7571465456996732, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7458203143147891, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7928969736169287, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7946942824700481, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7396169858452716, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8932731011665119, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7628372623916282, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7618880522639639, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8782079584693221, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7634532120543349, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9272578655948179, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7112198958401272, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.882109585420081, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7447451339253949, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7875339772351413, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7526191789241976, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8931643683477307, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7575619353830589, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8328057775580416, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7680567164619664, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8665156092972359, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7007897733299902, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9447356404924061, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8337554678064388, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7666487828335026, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7282785185176732, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8673569214986314, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7168442636638548, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7200090060053553, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7495887940697262, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7215926765295784, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8593997592941585, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7904137991943629, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7029218622047945, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7234658998687005, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7694073482361646, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9150465398113151, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8545392447760122, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7216877497739174, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.82288116469175, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7531683119688074, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.888754301292272, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7501912936216439, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7152919937093556, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7047276394067592, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7869852219380682, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.828087400100777, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7677306199088405, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7095883070812893, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}]}
+2025-11-14 22:14:43 - app.utils - INFO - {"timestamp": "2025-11-14T22:14:43.698569", "action": "runner_complete", "total_processed": 5000, "flagged": 160, "output_file": "data/out/flags.csv"}
+2025-11-14 22:14:43 - __main__ - INFO - Runner completed successfully
+2025-11-15 09:39:28 - app.utils - INFO - {"timestamp": "2025-11-15T09:39:28.629453", "action": "runner_start", "data_path": "data/sample_transactions.csv"}
+2025-11-15 09:39:28 - __main__ - INFO - Reading data from data/sample_transactions.csv
+2025-11-15 09:39:28 - __main__ - INFO - Loaded 5000 transactions
+2025-11-15 09:39:28 - __main__ - INFO - Loading model pipeline...
+2025-11-15 09:39:28 - __main__ - INFO - Running predictions...
+2025-11-15 09:39:29 - __main__ - INFO - Flagged 160 out of 5000 transactions (threshold: 0.7)
+2025-11-15 09:39:29 - __main__ - INFO - Saved flagged transactions to data/out/flags.csv
+2025-11-15 09:39:29 - __main__ - INFO - Triggering automation engine...
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:39:29 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:39:29 - app.utils - INFO - {"timestamp": "2025-11-15T09:39:29.268596", "action": "automation_complete", "total_flagged": 160, "automation_results": [{"triggered": true, "probability": 0.8204299539733314, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7146643729752404, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8517901920603929, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7001251554132191, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7697847808234183, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8286588275593462, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8900907887110299, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8157012385746686, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8748028412387597, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.887979643631896, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7257632015887644, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7347953821033694, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8552017109501172, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7538412056827655, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7888359638212228, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7095912396537121, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7764675446498623, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.721493446744252, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.764090624215269, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7586181893309865, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7261623279426243, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.885631947361992, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7267872084893543, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7442162403906682, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8086301551417822, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7227151430211696, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7380216521843259, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8574490754527918, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9303501281033937, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7512663728128546, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7499367475951884, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7518553162567696, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7480895961692103, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7181183353643316, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7987212765081046, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9088307495757804, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9024609946267605, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.708254804000557, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7783288008078583, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.732979695806755, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8994230042724815, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8563753092710255, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7054822981080586, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8798890173868733, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8337321197509453, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7522984586733855, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7365513984631774, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7825649655885776, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8228173145536579, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7395669303137766, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8541816058928856, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7956043767954526, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.703817035493843, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.852408001990087, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7884303489363087, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8734685587492838, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8464766751973448, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.925816680349926, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9100583907440641, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7842096927548681, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8223330651229658, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7618158898868655, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9017794533069147, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7928235144332184, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7998435692035487, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8018405695852018, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8592095959919471, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7987935426491767, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9233973644342319, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9453540370806427, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9259746957561448, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9029552511485437, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8762484447446193, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7857598878950849, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7435480836801317, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.854406083273329, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7125354945821912, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7227589312060979, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7333243370623221, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7778392263575956, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8087060800938624, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7757115842019278, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7386540055001756, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7785725720609996, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8651814048011914, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8078544604965627, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8371837530319158, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7404095672527292, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8254713944252063, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9313653894564068, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7262241087252402, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.809787578148063, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7677769277881568, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8131435243044091, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.761960856469685, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8495665161175645, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7558627110424689, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7903369694757155, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7698178709006207, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7451355627572884, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7645347247032204, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7827736848715224, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9434312761729893, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8006011198140847, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8390611706078894, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9102019639287552, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7764675446498623, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7438481251443809, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7079160180507142, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9141335519676876, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7963880965272415, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7571465456996732, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7458203143147891, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7928969736169289, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7946942824700481, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7396169858452716, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8932731011665119, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7628372623916282, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7618880522639639, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8782079584693223, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7634532120543349, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9272578655948179, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7112198958401272, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.882109585420081, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7447451339253951, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7875339772351413, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7526191789241976, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8931643683477307, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7575619353830589, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8328057775580417, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7680567164619664, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8665156092972359, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7007897733299902, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9447356404924062, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.833755467806439, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7666487828335026, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7282785185176732, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8673569214986314, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7168442636638548, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7200090060053551, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7495887940697262, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7215926765295784, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8593997592941587, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7904137991943629, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7029218622047945, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7234658998687005, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7694073482361646, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9150465398113151, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8545392447760122, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7216877497739174, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8228811646917498, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7531683119688075, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.888754301292272, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7501912936216439, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7152919937093557, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7047276394067592, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7869852219380682, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.828087400100777, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7677306199088405, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7095883070812893, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}]}
+2025-11-15 09:39:29 - app.utils - INFO - {"timestamp": "2025-11-15T09:39:29.271295", "action": "runner_complete", "total_processed": 5000, "flagged": 160, "output_file": "data/out/flags.csv"}
+2025-11-15 09:39:29 - __main__ - INFO - Runner completed successfully
+2025-11-15 09:44:19 - __main__ - INFO - Model pipeline loaded successfully
+2025-11-15 09:59:30 - app.utils - INFO - {"timestamp": "2025-11-15T09:59:30.603389", "action": "runner_start", "data_path": "data/sample_transactions.csv"}
+2025-11-15 09:59:30 - __main__ - INFO - Reading data from data/sample_transactions.csv
+2025-11-15 09:59:30 - __main__ - INFO - Loaded 5000 transactions
+2025-11-15 09:59:30 - __main__ - INFO - Loading model pipeline...
+2025-11-15 09:59:30 - __main__ - INFO - Running predictions...
+2025-11-15 09:59:30 - __main__ - INFO - Flagged 160 out of 5000 transactions (threshold: 0.7)
+2025-11-15 09:59:30 - __main__ - INFO - Saved flagged transactions to data/out/flags.csv
+2025-11-15 09:59:30 - __main__ - INFO - Triggering automation engine...
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:30 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Email credentials not configured
+2025-11-15 09:59:31 - app.automation - WARNING - Webhook URL not configured
+2025-11-15 09:59:31 - app.utils - INFO - {"timestamp": "2025-11-15T09:59:31.134258", "action": "automation_complete", "total_flagged": 160, "automation_results": [{"triggered": true, "probability": 0.8204299539733314, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7146643729752404, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8517901920603929, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7001251554132191, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7697847808234183, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8286588275593462, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8900907887110298, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8157012385746686, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8748028412387597, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8879796436318961, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7257632015887645, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7347953821033694, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8552017109501171, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7538412056827655, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7888359638212228, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7095912396537121, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7764675446498625, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.721493446744252, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.764090624215269, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7586181893309865, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7261623279426243, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.885631947361992, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7267872084893543, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7442162403906681, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8086301551417822, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7227151430211696, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.738021652184326, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8574490754527918, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9303501281033936, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7512663728128546, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7499367475951884, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7518553162567693, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7480895961692101, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7181183353643316, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7987212765081046, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.90883074957578, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9024609946267607, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7082548040005571, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7783288008078583, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.732979695806755, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8994230042724812, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8563753092710256, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7054822981080586, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8798890173868732, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8337321197509455, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7522984586733855, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7365513984631775, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7825649655885778, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8228173145536577, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7395669303137766, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8541816058928857, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7956043767954525, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.703817035493843, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.852408001990087, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7884303489363087, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8734685587492836, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8464766751973447, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9258166803499259, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9100583907440637, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.784209692754868, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8223330651229659, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7618158898868655, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9017794533069147, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7928235144332184, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7998435692035486, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8018405695852018, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8592095959919471, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7987935426491763, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9233973644342319, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9453540370806427, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9259746957561447, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9029552511485437, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8762484447446193, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7857598878950849, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7435480836801317, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8544060832733291, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7125354945821912, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7227589312060979, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7333243370623221, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7778392263575955, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8087060800938624, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7757115842019278, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7386540055001753, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7785725720609997, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8651814048011915, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8078544604965628, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8371837530319158, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7404095672527291, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8254713944252065, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9313653894564068, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7262241087252401, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.809787578148063, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7677769277881568, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8131435243044091, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7619608564696851, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8495665161175645, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7558627110424689, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7903369694757155, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7698178709006207, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7451355627572883, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7645347247032204, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7827736848715224, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9434312761729893, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8006011198140848, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8390611706078893, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9102019639287553, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7764675446498625, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7438481251443808, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7079160180507141, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9141335519676876, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7963880965272413, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7571465456996731, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7458203143147891, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7928969736169289, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7946942824700481, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7396169858452716, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.893273101166512, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7628372623916282, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7618880522639639, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8782079584693223, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7634532120543349, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9272578655948179, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7112198958401271, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8821095854200809, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7447451339253949, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7875339772351413, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7526191789241976, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8931643683477308, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7575619353830589, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8328057775580416, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7680567164619664, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8665156092972359, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.70078977332999, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9447356404924062, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8337554678064388, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7666487828335028, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7282785185176732, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8673569214986313, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7168442636638547, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7200090060053553, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7495887940697262, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7215926765295784, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8593997592941583, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7904137991943629, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7029218622047945, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7234658998687005, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7694073482361646, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.9150465398113151, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8545392447760123, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7216877497739174, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8228811646917498, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7531683119688074, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8887543012922721, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.750191293621644, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7152919937093557, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7047276394067592, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7869852219380682, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.8280874001007771, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7677306199088403, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}, {"triggered": true, "probability": 0.7095883070812893, "threshold": 0.7, "email": false, "webhook": false, "gsheets": false}]}
+2025-11-15 09:59:31 - app.utils - INFO - {"timestamp": "2025-11-15T09:59:31.138661", "action": "runner_complete", "total_processed": 5000, "flagged": 160, "output_file": "data/out/flags.csv"}
+2025-11-15 09:59:31 - __main__ - INFO - Runner completed successfully
+2025-11-15 10:25:39 - app.utils - INFO - {"timestamp": "2025-11-15T10:25:39.096101", "action": "runner_start", "data_path": "data\\sample_transactions.csv"}
+2025-11-15 10:25:39 - __main__ - INFO - Reading data from data\sample_transactions.csv
+2025-11-15 10:25:39 - __main__ - INFO - Loaded 5000 transactions
+2025-11-15 10:25:39 - __main__ - INFO - Loading model pipeline...
+2025-11-15 10:25:39 - __main__ - INFO - Running predictions...
+2025-11-15 10:25:39 - __main__ - INFO - Flagged 160 out of 5000 transactions (threshold: 0.7)
+2025-11-15 10:25:39 - __main__ - INFO - Saved flagged transactions to data\out/flags.csv
+2025-11-15 10:25:39 - __main__ - INFO - Triggering automation engine...
+2025-11-15 10:25:39 - app.utils - INFO - {"timestamp": "2025-11-15T10:25:39.850077", "action": "automation_complete", "total_flagged": 160, "automation_results": {"count": 160, "email": null, "webhook": null}}
+2025-11-15 10:25:39 - app.utils - INFO - {"timestamp": "2025-11-15T10:25:39.850997", "action": "runner_complete", "total_processed": 5000, "flagged": 160, "output_file": "data\\out/flags.csv"}
+2025-11-15 10:25:39 - __main__ - INFO - Runner completed successfully
+2025-11-15 10:36:34 - app.utils - INFO - {"timestamp": "2025-11-15T10:36:34.608370", "action": "runner_start", "data_path": "data\\sample_transactions.csv"}
+2025-11-15 10:36:34 - __main__ - INFO - Reading data from data\sample_transactions.csv
+2025-11-15 10:36:34 - __main__ - INFO - Loaded 5000 transactions
+2025-11-15 10:36:34 - __main__ - INFO - Loading model pipeline...
+2025-11-15 10:36:34 - __main__ - INFO - Running predictions...
+2025-11-15 10:36:34 - __main__ - INFO - Flagged 160 out of 5000 transactions (threshold: 0.7)
+2025-11-15 10:36:34 - __main__ - INFO - Saved flagged transactions to data\out/flags.csv
+2025-11-15 10:36:34 - __main__ - INFO - Triggering automation engine...
+2025-11-15 10:36:34 - app.automation - ERROR - Failed to send webhook: Object of type Timestamp is not JSON serializable
+2025-11-15 10:36:35 - app.automation - ERROR - Failed to send webhook: Object of type Timestamp is not JSON serializable
+2025-11-15 10:36:37 - app.automation - ERROR - Failed to send webhook: Object of type Timestamp is not JSON serializable
+2025-11-15 10:36:41 - app.automation - ERROR - Failed to send webhook: Object of type Timestamp is not JSON serializable
+2025-11-15 10:36:49 - app.automation - ERROR - Failed to send webhook: Object of type Timestamp is not JSON serializable
+2025-11-15 10:36:49 - app.automation - ERROR - Webhook failed after retries: RetryError[<Future at 0x162d00d9e80 state=finished raised TypeError>]
+2025-11-15 10:36:49 - app.utils - INFO - {"timestamp": "2025-11-15T10:36:49.892610", "action": "automation_complete", "total_flagged": 160, "automation_results": {"count": 160, "email": null, "webhook": {"success": false, "error": "RetryError[<Future at 0x162d00d9e80 state=finished raised TypeError>]"}}}
+2025-11-15 10:36:49 - app.utils - INFO - {"timestamp": "2025-11-15T10:36:49.892610", "action": "runner_complete", "total_processed": 5000, "flagged": 160, "output_file": "data\\out/flags.csv"}
+2025-11-15 10:36:49 - __main__ - INFO - Runner completed successfully
+2025-11-15 10:44:45 - app.utils - INFO - {"timestamp": "2025-11-15T10:44:45.261818", "action": "runner_start", "data_path": "data\\sample_transactions.csv"}
+2025-11-15 10:44:45 - __main__ - INFO - Reading data from data\sample_transactions.csv
+2025-11-15 10:44:45 - __main__ - INFO - Loaded 5000 transactions
+2025-11-15 10:44:45 - __main__ - INFO - Loading model pipeline...
+2025-11-15 10:44:45 - __main__ - INFO - Running predictions...
+2025-11-15 10:44:46 - __main__ - INFO - Flagged 160 out of 5000 transactions (threshold: 0.7)
+2025-11-15 10:44:46 - __main__ - INFO - Saved flagged transactions to data\out/flags.csv
+2025-11-15 10:44:46 - __main__ - INFO - Triggering automation engine...
+2025-11-15 10:44:46 - app.utils - INFO - {"timestamp": "2025-11-15T10:44:46.892343", "action": "automation_complete", "total_flagged": 160, "automation_results": {"count": 160, "email": null, "webhook": {"success": true, "status_code": 200, "text": "This URL has no default content configured. <a href=\"https://webhook.site/#!/edit/ea897b89-f1e9-4e63-a2fb-b08d2a7383ad\">Change response in Webhook.site</a>."}}}
+2025-11-15 10:44:46 - app.utils - INFO - {"timestamp": "2025-11-15T10:44:46.894636", "action": "runner_complete", "total_processed": 5000, "flagged": 160, "output_file": "data\\out/flags.csv"}
+2025-11-15 10:44:46 - __main__ - INFO - Runner completed successfully
+2025-11-15 10:54:37 - app.utils - INFO - {"timestamp": "2025-11-15T10:54:37.011302", "action": "runner_start", "data_path": "data\\sample_transactions.csv"}
+2025-11-15 10:54:37 - __main__ - INFO - Reading data from data\sample_transactions.csv
+2025-11-15 10:54:37 - __main__ - INFO - Loaded 5000 transactions
+2025-11-15 10:54:37 - __main__ - INFO - Loading model pipeline...
+2025-11-15 10:54:37 - __main__ - INFO - Running predictions...
+2025-11-15 10:54:37 - __main__ - INFO - Flagged 160 out of 5000 transactions (threshold: 0.7)
+2025-11-15 10:54:37 - __main__ - INFO - Saved flagged transactions to data\out/flags.csv
+2025-11-15 10:54:37 - __main__ - INFO - Triggering automation engine...
+2025-11-15 10:54:38 - app.automation - INFO - Webhook sent: status_code=200 info={'flags_count': 160, 'sample_size': 10, 'flags_full_path': None}
+2025-11-15 10:54:38 - app.utils - INFO - {"timestamp": "2025-11-15T10:54:38.242008", "action": "automation_complete", "total_flagged": 160, "automation_results": {"count": 160, "email": null, "webhook": {"success": true, "status_code": 200, "text": "This URL has no default content configured. <a href=\"https://webhook.site/#!/edit/ea897b89-f1e9-4e63-a2fb-b08d2a7383ad\">Change response in Webhook.site</a>.", "info": {"flags_count": 160, "sample_size": 10, "flags_full_path": null}}}}
+2025-11-15 10:54:38 - app.utils - INFO - {"timestamp": "2025-11-15T10:54:38.242008", "action": "runner_complete", "total_processed": 5000, "flagged": 160, "output_file": "data\\out/flags.csv"}
+2025-11-15 10:54:38 - __main__ - INFO - Runner completed successfully
+2025-11-15 14:12:33 - app.utils - INFO - {"timestamp": "2025-11-15T14:12:33.909309", "action": "runner_start", "data_path": "data/test_dirty_transactions.csv"}
+2025-11-15 14:12:33 - __main__ - INFO - Reading data from data/test_dirty_transactions.csv
+2025-11-15 14:12:33 - __main__ - ERROR - Runner failed: time data "not-a-date" doesn't match format "%Y-%m-%d %H:%M:%S", at position 6. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+Traceback (most recent call last):
+  File "D:\autonomous-workflow\src\app\runner.py", line 44, in run_predictions
+    df = ingest_csv(data_path)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\src\app\ingestion.py", line 26, in ingest_csv
+    df['timestamp'] = pd.to_datetime(df['timestamp'])
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\pandas\core\tools\datetimes.py", line 1112, in to_datetime
+    values = convert_listlike(arg._values, format)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\pandas\core\tools\datetimes.py", line 488, in _convert_listlike_datetimes
+    return _array_strptime_with_fallback(arg, name, utc, format, exact, errors)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\pandas\core\tools\datetimes.py", line 519, in _array_strptime_with_fallback
+    result, timezones = array_strptime(arg, fmt, exact=exact, errors=errors, utc=utc)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "strptime.pyx", line 534, in pandas._libs.tslibs.strptime.array_strptime
+  File "strptime.pyx", line 355, in pandas._libs.tslibs.strptime.array_strptime
+ValueError: time data "not-a-date" doesn't match format "%Y-%m-%d %H:%M:%S", at position 6. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-11-15 14:12:33 - app.utils - INFO - {"timestamp": "2025-11-15T14:12:33.950930", "action": "runner_error", "error": "time data \"not-a-date\" doesn't match format \"%Y-%m-%d %H:%M:%S\", at position 6. You might want to try:\n    - passing `format` if your strings have a consistent format;\n    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;\n    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this."}
+2025-11-15 14:19:36 - app.utils - INFO - {"timestamp": "2025-11-15T14:19:36.645919", "action": "runner_start", "data_path": "data/test_dirty_transactions.csv"}
+2025-11-15 14:19:36 - __main__ - INFO - Reading data from data/test_dirty_transactions.csv
+2025-11-15 14:19:36 - app.ingestion - WARNING - ingest_csv: 158 timestamp(s) could not be parsed and were set to NaT
+2025-11-15 14:19:36 - __main__ - INFO - Loaded 2000 transactions
+2025-11-15 14:19:36 - __main__ - INFO - Loading model pipeline...
+2025-11-15 14:19:36 - __main__ - INFO - Running predictions...
+2025-11-15 14:19:36 - __main__ - ERROR - Runner failed: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 1
+Traceback (most recent call last):
+  File "D:\autonomous-workflow\src\app\runner.py", line 57, in run_predictions
+    predictions, probabilities = model_pipeline.predict(df)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\src\app\model.py", line 55, in predict
+    df_features = create_derived_features(df)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\src\training\features.py", line 104, in create_derived_features
+    df = extract_time_features(df)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\src\training\features.py", line 24, in extract_time_features
+    df[timestamp_col] = pd.to_datetime(df[timestamp_col])
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\pandas\core\tools\datetimes.py", line 1112, in to_datetime
+    values = convert_listlike(arg._values, format)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\pandas\core\tools\datetimes.py", line 490, in _convert_listlike_datetimes
+    result, tz_parsed = objects_to_datetime64ns(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\pandas\core\arrays\datetimes.py", line 2346, in objects_to_datetime64ns
+    result, tz_parsed = tslib.array_to_datetime(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "tslib.pyx", line 403, in pandas._libs.tslib.array_to_datetime
+  File "tslib.pyx", line 552, in pandas._libs.tslib.array_to_datetime
+  File "tslib.pyx", line 480, in pandas._libs.tslib.array_to_datetime
+  File "conversion.pyx", line 712, in pandas._libs.tslibs.conversion.convert_timezone
+ValueError: Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 1
+2025-11-15 14:19:36 - app.utils - INFO - {"timestamp": "2025-11-15T14:19:36.833652", "action": "runner_error", "error": "Tz-aware datetime.datetime cannot be converted to datetime64 unless utc=True, at position 1"}
+2025-11-15 14:25:26 - app.utils - INFO - {"timestamp": "2025-11-15T14:25:26.640294", "action": "runner_start", "data_path": "data/test_dirty_transactions.csv"}
+2025-11-15 14:25:26 - __main__ - INFO - Reading data from data/test_dirty_transactions.csv
+2025-11-15 14:25:26 - app.ingestion - WARNING - ingest_csv: 145 timestamp(s) could not be parsed and were set to NaT
+2025-11-15 14:25:26 - __main__ - INFO - Loaded 2000 transactions
+2025-11-15 14:25:26 - __main__ - INFO - Loading model pipeline...
+2025-11-15 14:25:26 - __main__ - INFO - Running predictions...
+2025-11-15 14:25:26 - __main__ - INFO - Flagged 245 out of 2000 transactions (threshold: 0.7)
+2025-11-15 14:25:26 - __main__ - INFO - Saved flagged transactions to data/out/flags_dirty.csv
+2025-11-15 14:25:26 - __main__ - INFO - Triggering automation engine...
+2025-11-15 14:25:26 - app.utils - INFO - {"timestamp": "2025-11-15T14:25:26.910314", "action": "automation_complete", "total_flagged": 245, "automation_results": {"count": 245, "email": null, "webhook": null}}
+2025-11-15 14:25:26 - app.utils - INFO - {"timestamp": "2025-11-15T14:25:26.910314", "action": "runner_complete", "total_processed": 2000, "flagged": 245, "output_file": "data/out/flags_dirty.csv"}
+2025-11-15 14:25:26 - __main__ - INFO - Runner completed successfully
+2025-11-15 14:42:36 - app.utils - INFO - {"timestamp": "2025-11-15T14:42:36.499390", "action": "runner_start", "data_path": "data/sample_transactions.csv"}
+2025-11-15 14:42:36 - __main__ - INFO - Reading data from data/sample_transactions.csv
+2025-11-15 14:42:36 - __main__ - INFO - Loaded 5000 transactions
+2025-11-15 14:42:36 - __main__ - INFO - Loading model pipeline...
+2025-11-15 14:42:36 - __main__ - INFO - Running predictions...
+2025-11-15 14:42:36 - __main__ - INFO - Flagged 113 out of 5000 transactions (threshold: 0.7)
+2025-11-15 14:42:36 - __main__ - INFO - Saved flagged transactions to data/out/flags.csv
+2025-11-15 14:42:36 - __main__ - INFO - Triggering automation engine...
+2025-11-15 14:42:36 - app.automation - INFO - Webhook prepared -> URL: https://webhook.site/ea897b89-f1e9-4e63-a2fb-b08d2a7383ad Payload keys: ['meta', 'flags_count', 'flags_sample']
+2025-11-15 14:42:36 - app.utils - INFO - {"timestamp": "2025-11-15T14:42:36.948513", "action": "automation_complete", "total_flagged": 113, "automation_results": {"count": 113, "email": null, "webhook": {"success": true, "dry_run": true}}}
+2025-11-15 14:42:36 - app.utils - INFO - {"timestamp": "2025-11-15T14:42:36.948513", "action": "runner_complete", "total_processed": 5000, "flagged": 113, "output_file": "data/out/flags.csv"}
+2025-11-15 14:42:36 - __main__ - INFO - Runner completed successfully
+2025-11-15 14:53:16 - src.app.main - INFO - Model pipeline loaded successfully
+2025-11-15 15:02:30 - app.utils - INFO - {"timestamp": "2025-11-15T15:02:30.929347", "action": "runner_start", "data_path": "data/test_dirty_transactions.csv"}
+2025-11-15 15:02:30 - __main__ - INFO - Reading data from data/test_dirty_transactions.csv
+2025-11-15 15:02:30 - app.ingestion - WARNING - ingest_csv: 145 timestamp(s) could not be parsed and were set to NaT
+2025-11-15 15:02:30 - __main__ - INFO - Loaded 2000 transactions
+2025-11-15 15:02:30 - __main__ - INFO - Loading model pipeline...
+2025-11-15 15:02:31 - __main__ - INFO - Running predictions...
+2025-11-15 15:02:31 - __main__ - INFO - Flagged 245 out of 2000 transactions (threshold: 0.7)
+2025-11-15 15:02:31 - __main__ - INFO - Saved flagged transactions to data/out/flags_dirty.csv
+2025-11-15 15:02:31 - __main__ - INFO - Triggering automation engine...
+2025-11-15 15:02:31 - app.automation - ERROR - Webhook POST failed
+Traceback (most recent call last):
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\models.py", line 511, in prepare_body
+    body = complexjson.dumps(json, allow_nan=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\malle\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\malle\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\malle\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+ValueError: Out of range float values are not JSON compliant: nan
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\autonomous-workflow\src\app\automation.py", line 159, in post_webhook
+    r = requests.post(url, json=safe_payload, timeout=10)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\sessions.py", line 486, in prepare_request
+    p.prepare(
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\models.py", line 371, in prepare
+    self.prepare_body(data, files, json)
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\models.py", line 513, in prepare_body
+    raise InvalidJSONError(ve, request=self)
+requests.exceptions.InvalidJSONError: Out of range float values are not JSON compliant: nan
+2025-11-15 15:02:31 - app.utils - INFO - {"timestamp": "2025-11-15T15:02:31.277025", "action": "automation_complete", "total_flagged": 245, "automation_results": {"count": 245, "email": null, "webhook": {"success": false, "error": "Out of range float values are not JSON compliant: nan"}}}
+2025-11-15 15:02:31 - app.utils - INFO - {"timestamp": "2025-11-15T15:02:31.277025", "action": "runner_complete", "total_processed": 2000, "flagged": 245, "output_file": "data/out/flags_dirty.csv"}
+2025-11-15 15:02:31 - __main__ - INFO - Runner completed successfully
+2025-11-15 15:09:02 - app.utils - INFO - {"timestamp": "2025-11-15T15:09:02.720485", "action": "runner_start", "data_path": "data/test_dirty_transactions.csv"}
+2025-11-15 15:09:02 - __main__ - INFO - Reading data from data/test_dirty_transactions.csv
+2025-11-15 15:09:02 - app.ingestion - WARNING - ingest_csv: 145 timestamp(s) could not be parsed and were set to NaT
+2025-11-15 15:09:02 - __main__ - INFO - Loaded 2000 transactions
+2025-11-15 15:09:02 - __main__ - INFO - Loading model pipeline...
+2025-11-15 15:09:02 - __main__ - INFO - Running predictions...
+2025-11-15 15:09:02 - __main__ - INFO - Flagged 245 out of 2000 transactions (threshold: 0.7)
+2025-11-15 15:09:02 - __main__ - INFO - Saved flagged transactions to data/out/flags_dirty.csv
+2025-11-15 15:09:02 - __main__ - INFO - Triggering automation engine...
+2025-11-15 15:09:03 - app.automation - ERROR - Webhook POST failed
+Traceback (most recent call last):
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\models.py", line 511, in prepare_body
+    body = complexjson.dumps(json, allow_nan=False)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\malle\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\malle\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\malle\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+ValueError: Out of range float values are not JSON compliant: nan
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\autonomous-workflow\src\app\automation.py", line 159, in post_webhook
+    r = requests.post(url, json=safe_payload, timeout=10)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\sessions.py", line 486, in prepare_request
+    p.prepare(
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\models.py", line 371, in prepare
+    self.prepare_body(data, files, json)
+  File "d:\autonomous-workflow\.venv\Lib\site-packages\requests\models.py", line 513, in prepare_body
+    raise InvalidJSONError(ve, request=self)
+requests.exceptions.InvalidJSONError: Out of range float values are not JSON compliant: nan
+2025-11-15 15:09:03 - app.utils - INFO - {"timestamp": "2025-11-15T15:09:03.012798", "action": "automation_complete", "total_flagged": 245, "automation_results": {"count": 245, "email": null, "webhook": {"success": false, "error": "Out of range float values are not JSON compliant: nan"}}}
+2025-11-15 15:09:03 - app.utils - INFO - {"timestamp": "2025-11-15T15:09:03.012798", "action": "runner_complete", "total_processed": 2000, "flagged": 245, "output_file": "data/out/flags_dirty.csv"}
+2025-11-15 15:09:03 - __main__ - INFO - Runner completed successfully
+2025-11-15 15:22:31 - app.utils - INFO - {"timestamp": "2025-11-15T15:22:31.314841", "action": "runner_start", "data_path": "data/test_dirty_transactions.csv"}
+2025-11-15 15:22:31 - __main__ - INFO - Reading data from data/test_dirty_transactions.csv
+2025-11-15 15:22:31 - app.ingestion - WARNING - ingest_csv: 145 timestamp(s) could not be parsed and were set to NaT
+2025-11-15 15:22:31 - __main__ - INFO - Loaded 2000 transactions
+2025-11-15 15:22:31 - __main__ - INFO - Loading model pipeline...
+2025-11-15 15:22:31 - __main__ - INFO - Running predictions...
+2025-11-15 15:22:31 - __main__ - INFO - Flagged 245 out of 2000 transactions (threshold: 0.7)
+2025-11-15 15:22:31 - __main__ - INFO - Saved flagged transactions to data/out/flags_dirty.csv
+2025-11-15 15:22:31 - __main__ - INFO - Triggering automation engine...
+2025-11-15 15:22:33 - app.automation - INFO - post_webhook: sent webhook status_code=200 info={'flags_count': 245, 'sample_size': 10, 'flags_full_path': None}
+2025-11-15 15:22:33 - app.utils - INFO - {"timestamp": "2025-11-15T15:22:33.395901", "action": "automation_complete", "total_flagged": 245, "automation_results": {"count": 245, "email": null, "webhook": {"success": true, "status_code": 200, "info": {"flags_count": 245, "sample_size": 10, "flags_full_path": null}, "text": "This URL has no default content configured. <a href=\"https://webhook.site/#!/edit/ea897b89-f1e9-4e63-a2fb-b08d2a7383ad\">Change response in Webhook.site</a>."}}}
+2025-11-15 15:22:33 - app.utils - INFO - {"timestamp": "2025-11-15T15:22:33.395901", "action": "runner_complete", "total_processed": 2000, "flagged": 245, "output_file": "data/out/flags_dirty.csv"}
+2025-11-15 15:22:33 - __main__ - INFO - Runner completed successfully
+2025-11-16 07:51:47 - src.app.main - INFO - Model pipeline loaded successfully
+2025-11-16 07:52:31 - app.utils - INFO - {"timestamp": "2025-11-16T07:52:31.656586", "action": "runner_start", "data_path": "data/sample_for_demo.csv"}
+2025-11-16 07:52:31 - __main__ - INFO - Reading data from data/sample_for_demo.csv
+2025-11-16 07:52:31 - __main__ - ERROR - Runner failed: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+Traceback (most recent call last):
+  File "D:\autonomous-workflow\src\app\runner.py", line 44, in run_predictions
+    df = ingest_csv(data_path)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\src\app\ingestion.py", line 28, in ingest_csv
+    df = pd.read_csv(filepath)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 948, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 611, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1448, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\.venv\Lib\site-packages\pandas\io\parsers\readers.py", line 1723, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\autonomous-workflow\.venv\Lib\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 93, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "parsers.pyx", line 579, in pandas._libs.parsers.TextReader.__cinit__
+  File "parsers.pyx", line 668, in pandas._libs.parsers.TextReader._get_header
+  File "parsers.pyx", line 879, in pandas._libs.parsers.TextReader._tokenize_rows
+  File "parsers.pyx", line 890, in pandas._libs.parsers.TextReader._check_tokenize_status
+  File "parsers.pyx", line 2050, in pandas._libs.parsers.raise_parser_error
+  File "<frozen codecs>", line 322, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-11-16 07:52:31 - app.utils - INFO - {"timestamp": "2025-11-16T07:52:31.725175", "action": "runner_error", "error": "'utf-8' codec can't decode byte 0xff in position 0: invalid start byte"}
+2025-11-16 07:53:08 - app.utils - INFO - {"timestamp": "2025-11-16T07:53:08.142241", "action": "runner_start", "data_path": "data/test_dirty_transactions.csv"}
+2025-11-16 07:53:08 - __main__ - INFO - Reading data from data/test_dirty_transactions.csv
+2025-11-16 07:53:08 - app.ingestion - WARNING - ingest_csv: 145 timestamp(s) could not be parsed and were set to NaT
+2025-11-16 07:53:08 - __main__ - INFO - Loaded 2000 transactions
+2025-11-16 07:53:08 - __main__ - INFO - Loading model pipeline...
+2025-11-16 07:53:08 - __main__ - INFO - Running predictions...
+2025-11-16 07:53:08 - __main__ - INFO - Flagged 245 out of 2000 transactions (threshold: 0.7)
+2025-11-16 07:53:08 - __main__ - INFO - Saved flagged transactions to data/out/flags_dirty.csv
+2025-11-16 07:53:08 - __main__ - INFO - Triggering automation engine...
+2025-11-16 07:53:09 - app.automation - INFO - post_webhook: sent webhook status_code=200 info={'flags_count': 245, 'sample_size': 10, 'flags_full_path': None}
+2025-11-16 07:53:09 - app.utils - INFO - {"timestamp": "2025-11-16T07:53:09.404864", "action": "automation_complete", "total_flagged": 245, "automation_results": {"count": 245, "email": null, "webhook": {"success": true, "status_code": 200, "info": {"flags_count": 245, "sample_size": 10, "flags_full_path": null}, "text": "This URL has no default content configured. <a href=\"https://webhook.site/#!/edit/ea897b89-f1e9-4e63-a2fb-b08d2a7383ad\">Change response in Webhook.site</a>."}}}
+2025-11-16 07:53:09 - app.utils - INFO - {"timestamp": "2025-11-16T07:53:09.404864", "action": "runner_complete", "total_processed": 2000, "flagged": 245, "output_file": "data/out/flags_dirty.csv"}
+2025-11-16 07:53:09 - __main__ - INFO - Runner completed successfully
