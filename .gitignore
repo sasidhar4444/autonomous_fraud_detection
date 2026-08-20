@@ -1,3 +1,38 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Environment variables and secrets
+.env
+credentials.json
+*_credentials.json
+
+# Logs
+*.log
+logs/*
+!logs/.gitkeep
+
+# Data outputs and large files
+data/out/*
+!data/out/.gitkeep
+
+# Models
+models/*.joblib
+models/*.pkl
+models/*.pt
+models/*.h5
+
+# Databases
+*.sqlite
+*.sqlite3
+*.db
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
